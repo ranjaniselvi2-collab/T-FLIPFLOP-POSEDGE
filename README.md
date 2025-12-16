@@ -53,6 +53,7 @@ input t, clk, rst;
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/a5a44048-6f71-4dd8-8588-5c053a0209c9)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
